@@ -1,2 +1,2 @@
-# Quantitative Macroeconomics - Homework 1
+# Quantitative Macroeconomics
 ## author: Adam Andrzej Wilczyński
